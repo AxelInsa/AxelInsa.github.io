@@ -29,10 +29,10 @@ description: >-                        # used by seo meta and the atom feed
   A blog to take notes of what I learn, Writ-Up and many more...
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: 'nouman404.github.io'
+url: 'axelinsa.github.io'
 
 github:
-  username: Nouman404             # change to your github username
+  username: AxelInsa             # change to your github username
 
 twitter:
   username:             # change to your twitter username
@@ -40,12 +40,12 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Bat
-  email: batbato@pm.me             # change to your email address
+  name: AxelInsa
+  email: axel.tonneau@insa-cvl.fr             # change to your email address
   links:
     # The first element serves as the copyright owner's link
     #- https://twitter.com/username      # change to your twitter homepage
-    - https://github.com/Nouman404/       # change to your github homepage
+    - https://github.com/AxelInsa/       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
