@@ -21,9 +21,9 @@ timezone: Europe/Paris
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: BatBato's Blog                          # the main title
+title: Stillwolfing's blog                         # the main title
 
-tagline: BatBato was here :)   # it will display as the sub-title
+tagline: Pwned   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A blog to take notes of what I learn, Writ-Up and many more...
@@ -83,7 +83,7 @@ theme_mode: dark  # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: /assets/img/icon.jpg
+avatar: /assets/img/icon.png
 
 # boolean type, the global switch for ToC in posts.
 toc: true
