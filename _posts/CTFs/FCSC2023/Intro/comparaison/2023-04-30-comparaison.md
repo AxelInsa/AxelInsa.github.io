@@ -60,7 +60,7 @@ Let's send it to the server:
 
 ![flag](/assets/img/CTFs/FCSC2023/Intro/comparaison/flag.png)
 
-One more flag :grinning: !
+One more flag 🙂!
 
 
 
