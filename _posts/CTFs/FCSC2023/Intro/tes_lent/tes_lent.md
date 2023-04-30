@@ -1,0 +1,45 @@
+
+# FCSC 2023: T'es lent
+## Stillwolfing
+
+Here is the context:
+
+![context](/assets/img/CTFs/FCSC2023/Intro/tes_lent/context.png)
+
+Here is the website:
+
+![site](/assets/img/CTFs/FCSC2023/Intro/tes_lent/site.png)
+
+By following the "plus d'info" button, we end up here:
+
+![first_page-1](/assets/img/CTFs/FCSC2023/Intro/tes_lent/first_page-1.png)
+
+![first_page-2](/assets/img/CTFs/FCSC2023/Intro/tes_lent/first_page-2.png)
+
+By following "Postuler", we end up with nothing:
+
+![nop](/assets/img/CTFs/FCSC2023/Intro/tes_lent/nop.png)
+
+There's nothing in the source of the offer or on this page.
+
+In the source of the main page, there is this:
+
+![home_src](/assets/img/CTFs/FCSC2023/Intro/tes_lent/home_src.png)
+
+By going to "/stage-generateur-de-nom-de-challenges.html", we find another job offer:
+
+![second_page-1](/assets/img/CTFs/FCSC2023/Intro/tes_lent/second_page-1.png)
+
+![second_page-2](/assets/img/CTFs/FCSC2023/Intro/tes_lent/second_page-2.png)
+
+We still cannot apply for the job :smiling_face_with_tear:.
+
+Looking at the source code of the second offer, we find this:
+
+![second_page_src](/assets/img/CTFs/FCSC2023/Intro/tes_lent/second_page_src.png)
+
+On this page, there is the flag :partying_face: !!
+
+![flag](/assets/img/CTFs/FCSC2023/Intro/tes_lent/flag.png)
+
+

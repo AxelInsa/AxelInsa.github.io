@@ -1,5 +1,5 @@
 
-# FCSC 2023: Tri Selectif
+# FCSC 2023: Comparaison
 ## Stillwolfing
 
 Here is the context:
@@ -60,7 +60,7 @@ Let's send it to the server:
 
 ![flag](/assets/img/CTFs/FCSC2023/Intro/comparaison/flag.png)
 
-One more flag :smiley: !
+One more flag :grinning: !
 
 
 
