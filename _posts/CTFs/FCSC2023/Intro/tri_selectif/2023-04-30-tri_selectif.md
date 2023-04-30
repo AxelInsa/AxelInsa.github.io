@@ -149,6 +149,6 @@ Then we run the client:
 python client_sol.py
 ```
 
-![context](/assets/img/CTFs/FCSC2023/Intro/tri_selectif/flag.png)
+![flag](/assets/img/CTFs/FCSC2023/Intro/tri_selectif/flag.png)
 
 We have the flag, nice!
