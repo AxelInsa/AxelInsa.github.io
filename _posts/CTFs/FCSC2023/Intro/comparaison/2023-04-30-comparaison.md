@@ -12,7 +12,7 @@ We are given:
 - a code to translate the assembly code into hex format in order to send it to the server (assembly.py)
 - the code present on the server (challenge.py)
 
-
+This challenge is an introduction to assembly code.
 The harder was to understand the syntax of the asm code they created.
 
 Here is the python code I created:
