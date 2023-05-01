@@ -39,7 +39,7 @@ Here is the result:
 
 With a python script, we reconstruct the text:
 
-https://github.com/kxynos/saleae-csv2text
+[salae-csv2txt](https://github.com/kxynos/saleae-csv2text)
 
 ![text](/assets/img/CTFs/FCSC2023/Intro/dystalosaurus/text.png)
 
