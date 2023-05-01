@@ -51,7 +51,7 @@ It will have 2 stages. First going decreasing n through recursive descent. Then 
 
 We can see the phases on the image given. The first one is always the same patern. The second one is different.
 
-We know that a multiplication consumes a lot of power. So, whenever we see a peek in power consumption, it's because a multiplication has been made.
+We know that a multiplication consumes a lot of power. So, whenever we see a big peek in power consumption, it's because a multiplication has been made.
 
 Another interesting thing:
 
@@ -114,7 +114,7 @@ x * exp_by_squaring(x * x, (n - 1) / 2)
 
 Since it is backtracking, we handle the digits in reverse order from the first stage (from left to right).
 
-If we take a look at the user trace, it begins with a peek so the first digit is 1. Then there is a little peek so it's 0. Then there is a bit peek so it's 1 and so one.
+If we take a look at the user trace, it begins with a peek so the first digit is 1. Then there is a little peek so it's 0. Then there is a big peek so it's 1 and so one.
 
 The binary representation of the user number is 10100010100110010100110010100111. It begins with 101 (left to right) as expected.
 
