@@ -87,7 +87,7 @@ The seventh log has the EventID 40962 which is PowerShell console is ready for u
 
 The eighth log is the user inputs:
 
-![execution_policy](/assets/img/CTFs/FCSC2023/Intro/la_gazette_de_windows/user_input.png)
+![user_input](/assets/img/CTFs/FCSC2023/Intro/la_gazette_de_windows/user_input.png)
 
 The final log has event id 40961 which is PowerShell console is starting up. The script is running.
 
