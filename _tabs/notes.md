@@ -1,7 +1,7 @@
 ---
 title: Notes
 icon: fas fa-sticky-note
-order: 2
+order: 3
 ---
 
 

@@ -1,8 +1,5 @@
 
 
-
-
-
 ## LFI / RFI
 
 File inclusion occurs when the user can control the file that will be loaded by the server.
