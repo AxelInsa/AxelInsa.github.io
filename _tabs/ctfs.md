@@ -20,7 +20,7 @@ order: 2
 
 |   **Link**  |
 | --------------- |
-| [aarg](/CTFs/FCSC2023/intro/aaarg)  |
+| [aaarg](/CTFs/FCSC2023/intro/aaarg)  |
 | [comparaison](/CTFs/FCSC2023/intro/comparaison)  |
 | [dystalosaurus](/CTFs/FCSC2023/intro/dystalosaurus)  |
 | [la_gazette_de_windows](/CTFs/FCSC2023/intro/la_gazette_de_windows)  |
