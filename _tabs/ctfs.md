@@ -1,6 +1,6 @@
 ---
 title: CTFs
-icon: fas fa-sticky-note
+icon: fa fa-flag
 order: 2
 ---
 
