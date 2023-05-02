@@ -1,6 +1,11 @@
-
-# FCSC 2023: Fibonacci
-## Stillwolfing
+---
+title: CTFs | FCSC2023 | Fibonacci
+author: Stillwolfing
+date: 2023-04-30
+categories: [CTFs, FCSC2023, Hardware]
+tags: [CTF, FCSC, ASM]
+permalink: /CTFs/FCSC2023/hardware/fibonacci
+---
 
 Here is the context:
 

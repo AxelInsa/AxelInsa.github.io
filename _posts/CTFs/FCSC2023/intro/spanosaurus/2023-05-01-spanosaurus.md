@@ -1,6 +1,11 @@
-
-# FCSC 2023: SPAnosaurus
-## Stillwolfing
+---
+title: CTFs | FCSC2023 | Spanosaurus
+author: Stillwolfing
+date: 2023-05-01
+categories: [CTFs, FCSC2023, Intro]
+tags: [CTF, FCSC, Side Channel]
+permalink: /CTFs/FCSC2023/intro/spanosaurus
+---
 
 Here is the context:
 
