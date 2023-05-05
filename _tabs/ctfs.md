@@ -30,6 +30,12 @@ order: 2
 | [tri_selectif](/CTFs/FCSC2023/intro/tri_selectif)  |
 | [uid](/CTFs/FCSC2023/intro/uid)  |
 
+## Web
+
+| **Link**   |
+|--------------- |
+| [salty_authentication](/CTFs/FCSC2023/web/salty_authentication)  |
+
 ## Hardware
 
 | **Link**   |
@@ -41,4 +47,5 @@ order: 2
 | **Link**   |
 |--------------- |
 | [zero_pointe](/CTFs/FCSC2023/misc/zero_pointe)  |
+
 
