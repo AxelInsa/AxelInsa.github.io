@@ -3,7 +3,7 @@ title: CTFs | FCSC2023 | Zero Pointé
 author: Stillwolfing
 date: 2023-04-30
 categories: [CTFs, FCSC2023, Misc]
-tags: [CTF, FCSC, Integer IOF]
+tags: [CTF, FCSC, Misc, Integer IOF]
 permalink: /CTFs/FCSC2023/misc/zero_pointe
 ---
 

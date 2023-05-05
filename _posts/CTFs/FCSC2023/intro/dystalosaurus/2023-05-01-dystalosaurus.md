@@ -3,7 +3,7 @@ title: CTFs | FCSC2023 | Dystalosaurus
 author: Stillwolfing
 date: 2023-05-01
 categories: [CTFs, FCSC2023, Intro]
-tags: [CTF, FCSC, Hardware]
+tags: [CTF, FCSC, Intro, Hardware]
 permalink: /CTFs/FCSC2023/intro/dystalosaurus
 ---
 

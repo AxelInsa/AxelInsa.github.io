@@ -10,7 +10,7 @@ order: 2
 
 | **Link**  |
 | --------------- |
-| [Assassins_communication](/CTFs/Hackday2023/Forensic/Assassins_communication) |
+| [Assassins_communication](/CTFs/Hackday2023/forensic/assassins_communication) |
 
 ---
 
@@ -40,5 +40,5 @@ order: 2
 
 | **Link**   |
 |--------------- |
-| [zero_pointe](/CTFs/FCSC2023/hardware/zero_pointe)  |
+| [zero_pointe](/CTFs/FCSC2023/misc/zero_pointe)  |
 

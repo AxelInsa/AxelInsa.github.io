@@ -3,7 +3,7 @@ title: CTFs | FCSC2023 | Tri selectif
 author: Stillwolfing
 date: 2023-04-30
 categories: [CTFs, FCSC2023, Intro]
-tags: [CTF, FCSC, Programmation]
+tags: [CTF, FCSC, Intro, Programmation]
 permalink: /CTFs/FCSC2023/intro/tri_selectif
 ---
 
