@@ -35,6 +35,7 @@ order: 2
 | **Link**   |
 |--------------- |
 | [salty_authentication](/CTFs/FCSC2023/web/salty_authentication)  |
+| [enisa_flag_store_1](/CTFs/FCSC2023/web/enisa_flag_store_1)  |
 
 ## Hardware
 

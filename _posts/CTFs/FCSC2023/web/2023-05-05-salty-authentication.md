@@ -11,6 +11,8 @@ Here is the context:
 
 ![context](/assets/img/CTFs/FCSC2023/web/salty_authentication/context.png)
 
+I did not solved this challenge during the CTF, but I solved it after.
+
 Here is the main page:
 
 ![main_page](/assets/img/CTFs/FCSC2023/web/salty_authentication/main_page.png)
