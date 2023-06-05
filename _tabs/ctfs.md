@@ -50,3 +50,12 @@ order: 2
 | [zero_pointe](/CTFs/FCSC2023/misc/zero_pointe)  |
 
 
+
+# 404 CTF 2023
+
+## Web
+
+| **Link**   |
+|--------------- |
+| [le_loup_et_le_renard](/CTFs/404CTF2023/web/le_loup_et_le_renard)  |
+
