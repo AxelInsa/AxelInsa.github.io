@@ -56,6 +56,7 @@ order: 2
 ## Web
 
 | **Link**   |
-|--------------- |
+|--------------- |  
 | [le_loup_et_le_renard](/CTFs/404CTF2023/web/le_loup_et_le_renard)  |
+| [l_academie_du_detail](/CTFs/404CTF2023/web/l_academie_du_detail) |
 
