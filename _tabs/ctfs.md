@@ -59,4 +59,6 @@ order: 2
 |--------------- |  
 | [le_loup_et_le_renard](/CTFs/404CTF2023/web/le_loup_et_le_renard)  |
 | [l_academie_du_detail](/CTFs/404CTF2023/web/l_academie_du_detail) |
+| [la_vie_francaise](/CTFs/404CTF2023/web/la_vie_francaise) |
+| [Fuite en 1791](/CTFs/404CTF2023/web/fuite_en_1791) |
 

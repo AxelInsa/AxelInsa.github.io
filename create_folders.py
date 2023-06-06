@@ -1,6 +1,7 @@
 import os
 from datetime import datetime
 
+
 def create_dir(base_dir, current_dir, category):
     new_dir = os.path.join(current_dir, category)
     confirm = input("Do you want to create a folder named {}? y / n\n".format(category))
