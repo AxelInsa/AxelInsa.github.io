@@ -1,5 +1,5 @@
 ---
-title: CTFs | FCSC2023 | Salty Authentication
+title: CTFs | FCSC2023 | Web | Salty Authentication
 author: Stillwolfing
 date: 2023-05-05
 categories: [CTFs, FCSC2023, Web]

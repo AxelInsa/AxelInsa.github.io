@@ -1,5 +1,5 @@
 ---
-title: CTFs | FCSC2023 | Spanosaurus
+title: CTFs | FCSC2023 | Intro | Spanosaurus
 author: Stillwolfing
 date: 2023-05-01
 categories: [CTFs, FCSC2023, Intro]

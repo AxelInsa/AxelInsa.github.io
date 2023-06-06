@@ -1,5 +1,5 @@
 ---
-title: CTFs | FCSC2023 | La gazette de Windows
+title: CTFs | FCSC2023 | Intro | La gazette de Windows
 author: Stillwolfing
 date: 2023-05-01
 categories: [CTFs, FCSC2023, Intro]

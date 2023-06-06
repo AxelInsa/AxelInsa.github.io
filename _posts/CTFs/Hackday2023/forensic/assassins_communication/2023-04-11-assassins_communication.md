@@ -1,5 +1,5 @@
 ---
-title: CTFs | HackDay2023 | Assassins Communication
+title: CTFs | HackDay2023 | Forensic | Assassins Communication
 author: Stillwolfing
 date: 2023-04-11
 categories: [CTFs, HackDay2023, Forensic]

@@ -1,5 +1,5 @@
 ---
-title: CTFs | FCSC2023 | Dystalosaurus
+title: CTFs | FCSC2023 | Intro | Dystalosaurus
 author: Stillwolfing
 date: 2023-05-01
 categories: [CTFs, FCSC2023, Intro]

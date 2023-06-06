@@ -10,7 +10,7 @@ order: 2
 
 | **Link**  |
 | --------------- |
-| [Assassins_communication](/CTFs/Hackday2023/forensic/assassins_communication) |
+| [Assassins Communication](/CTFs/Hackday2023/forensic/assassins_communication) |
 
 ---
 
@@ -20,34 +20,34 @@ order: 2
 
 |   **Link**  |
 | --------------- |
-| [aaarg](/CTFs/FCSC2023/intro/aaarg)  |
-| [comparaison](/CTFs/FCSC2023/intro/comparaison)  |
-| [dystalosaurus](/CTFs/FCSC2023/intro/dystalosaurus)  |
-| [la_gazette_de_windows](/CTFs/FCSC2023/intro/la_gazette_de_windows)  |
-| [rot13](/CTFs/FCSC2023/intro/rot13)  |
-| [spanosaurus](/CTFs/FCSC2023/intro/spanosaurus)  |
-| [tes_lent](/CTFs/FCSC2023/intro/tes_lent)  |
-| [tri_selectif](/CTFs/FCSC2023/intro/tri_selectif)  |
+| [Aaarg](/CTFs/FCSC2023/intro/aaarg)  |
+| [Comparaison](/CTFs/FCSC2023/intro/comparaison)  |
+| [Dystalosaurus](/CTFs/FCSC2023/intro/dystalosaurus)  |
+| [La gazette de Windows](/CTFs/FCSC2023/intro/la_gazette_de_windows)  |
+| [Rot13](/CTFs/FCSC2023/intro/rot13)  |
+| [Spanosaurus](/CTFs/FCSC2023/intro/spanosaurus)  |
+| [T'es Lent](/CTFs/FCSC2023/intro/tes_lent)  |
+| [Tri Selectif](/CTFs/FCSC2023/intro/tri_selectif)  |
 | [uid](/CTFs/FCSC2023/intro/uid)  |
 
 ## Web
 
 | **Link**   |
 |--------------- |
-| [salty_authentication](/CTFs/FCSC2023/web/salty_authentication)  |
-| [enisa_flag_store_1](/CTFs/FCSC2023/web/enisa_flag_store_1)  |
+| [Salty Authentication](/CTFs/FCSC2023/web/salty_authentication)  |
+| [Enisa Flag Store 1](/CTFs/FCSC2023/web/enisa_flag_store_1)  |
 
 ## Hardware
 
 | **Link**   |
 |--------------- |
-| [fibonacci](/CTFs/FCSC2023/hardware/fibonacci)  |
+| [Fibonacci](/CTFs/FCSC2023/hardware/fibonacci)  |
 
 ## Misc
 
 | **Link**   |
 |--------------- |
-| [zero_pointe](/CTFs/FCSC2023/misc/zero_pointe)  |
+| [Zero pointé](/CTFs/FCSC2023/misc/zero_pointe)  |
 
 
 
@@ -57,8 +57,9 @@ order: 2
 
 | **Link**   |
 |--------------- |  
-| [le_loup_et_le_renard](/CTFs/404CTF2023/web/le_loup_et_le_renard)  |
-| [l_academie_du_detail](/CTFs/404CTF2023/web/l_academie_du_detail) |
-| [la_vie_francaise](/CTFs/404CTF2023/web/la_vie_francaise) |
+| [Le Loup et le renard](/CTFs/404CTF2023/web/le_loup_et_le_renard)  |
+| [L'Académie du détail](/CTFs/404CTF2023/web/l_academie_du_detail) |
+| [La Vie Française](/CTFs/404CTF2023/web/la_vie_francaise) |
 | [Fuite en 1791](/CTFs/404CTF2023/web/fuite_en_1791) |
+| [L'innondation](/CTFs/404CTF2023/programmation/l_innondation) |
 

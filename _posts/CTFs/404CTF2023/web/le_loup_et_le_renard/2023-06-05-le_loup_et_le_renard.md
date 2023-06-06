@@ -1,5 +1,5 @@
 ---
-title: CTFs | 404CTF2023 | Le Loup et le renard
+title: CTFs | 404CTF2023 | Web | Le Loup et le renard
 author: Stillwolfing
 date: 2023-06-05
 categories: [CTFs, 404CTF2023, Web]

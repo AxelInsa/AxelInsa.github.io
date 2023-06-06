@@ -1,5 +1,5 @@
 ---
-title: CTFs | FCSC2023 | Fibonacci
+title: CTFs | FCSC2023 | Hardware | Fibonacci
 author: Stillwolfing
 date: 2023-04-30
 categories: [CTFs, FCSC2023, Hardware]

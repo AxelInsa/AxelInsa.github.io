@@ -1,5 +1,5 @@
 ---
-title: CTFs | FCSC2023 | Zero Pointé
+title: CTFs | FCSC2023 | Misc | Zero Pointé
 author: Stillwolfing
 date: 2023-04-30
 categories: [CTFs, FCSC2023, Misc]

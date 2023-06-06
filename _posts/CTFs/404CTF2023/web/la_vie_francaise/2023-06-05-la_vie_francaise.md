@@ -1,5 +1,5 @@
 ---
-title: CTFs | 404CTF2023 | La Vie Française
+title: CTFs | 404CTF2023 | Web | La Vie Française
 author: Stillwolfing
 date: 2023-06-05
 categories: [CTFs, 404CTF2023, Web]

@@ -1,5 +1,5 @@
 ---
-title: CTFs | FCSC2023 | Tri selectif
+title: CTFs | FCSC2023 | Intro | Tri selectif
 author: Stillwolfing
 date: 2023-04-30
 categories: [CTFs, FCSC2023, Intro]

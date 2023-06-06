@@ -1,5 +1,5 @@
 ---
-title: CTFs | FCSC2023 | Comparaison
+title: CTFs | FCSC2023 | Intro | Comparaison
 author: Stillwolfing
 date: 2023-04-30
 categories: [CTFs, FCSC2023, Intro]
