@@ -4,7 +4,7 @@ author: Stillwolfing
 date: 2023-06-06
 categories: ['CTFs', '404CTF2023', 'Programmation']
 tags: ['CTFs', '404CTF2023', 'Programmation']
-permalink: /CTFs/404CTF2023/Programmation/l_innondation
+permalink: /CTFs/404CTF2023/programmation/l_innondation
 ---
 
 Here is the context:
@@ -64,8 +64,3 @@ We receive until the character '}' (the end of the flag) and print the response.
 We have the flag !
 
 I hope this writeup was easy to understand. Have a good day 😀 !
-
-
-
-
-

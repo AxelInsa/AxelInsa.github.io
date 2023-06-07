@@ -1,5 +1,11 @@
 import os
 from datetime import datetime
+import readline
+
+
+orange = "\033[0;33m"
+white = "\033[0;37m"
+green = "\033[0;32m"
 
 
 def get_paths(file_path):
@@ -14,12 +20,6 @@ def get_paths(file_path):
     ctf_name = os.path.basename(ctf_path)
     category_name = os.path.basename(category_path)
 
-    # put the first letter of category_name, ctf_name, chall_cat_name and chall_name in uppercase
-    category_name = category_name[0].upper() + category_name[1:]
-    ctf_name = ctf_name[0].upper() + ctf_name[1:]
-    chall_cat_name = chall_cat_name[0].upper() + chall_cat_name[1:]
-    chall_name = chall_name[0].upper() + chall_name[1:] 
-
     return category_name, ctf_name, chall_cat_name, filename
 
 
@@ -28,12 +28,19 @@ def create_file(file_path, real_name):
     category_name, ctf_name, chall_cat_name, filename = get_paths(file_path)
     #print("category_name: {}, ctf_name: {}, category_name: {}, chall_name: {}".format(category_name, ctf_name, category_name, chall_name))
 
-    title = f"{category_name} | {ctf_name} | {chall_cat_name} | {real_name}"
+    # put the first letter of category_name, ctf_name, chall_cat_name and chall_name in uppercase
+    upper_category_name = category_name[0].upper() + category_name[1:]
+    upper_ctf_name = ctf_name[0].upper() + ctf_name[1:]
+    upper_chall_cat_name = chall_cat_name[0].upper() + chall_cat_name[1:]
+    upper_chall_name = filename[0].upper() + filename[1:] 
+
+
+    title = f"{upper_category_name} | {upper_ctf_name} | {upper_chall_cat_name} | {real_name}"
     print("title: {}".format(title))
 
     author = input("Author: ")
     date = datetime.today().strftime('%Y-%m-%d')
-    categories = [category_name, ctf_name, chall_cat_name]
+    categories = [upper_category_name, upper_ctf_name, upper_chall_cat_name]
     tags = categories
     permalink = f"/{category_name}/{ctf_name}/{chall_cat_name}/{filename}"
 
@@ -62,8 +69,42 @@ def choose_or_create_category(base_dir):
     current_dir = "_posts"
 
     while True:
+        
+        # List of words for autocompletion
         categories = os.listdir(os.path.join(base_dir, current_dir))
-        category = input("If you want to keep a path, type 'exit'\nIf you want to create a folder, type its name,\nElse choose a folder:\n{}\n> ".format("\n".join(categories)))
+
+        # Custom completer function
+        def completer(text, state):
+            options = [word for word in categories if word.startswith(text)]
+            if state < len(options):
+                return options[state]
+            else:
+                return None
+
+        readline.set_completer(completer)
+        readline.parse_and_bind("tab: complete")
+
+        arrow = " -> "
+
+        global orange, white, green
+        cmd_color = orange
+        arrow_color = white
+        instruction_color = green
+
+        prompt = cmd_color + "Create file here"
+        prompt += arrow_color + arrow
+        prompt += instruction_color + "'exit',\n"
+        prompt += cmd_color + "Create a new folder"
+        prompt += arrow_color + arrow
+        prompt += instruction_color + "type its name,\n"
+        prompt += cmd_color + "Navigate to a folder"
+        prompt += arrow_color + arrow
+        prompt += instruction_color + "type its name\n"
+        prompt += white + "\n"
+        prompt += "Available folders:\n"
+
+        category = input("{}{}\n> ".format(prompt, "\n".join(categories)))
+        print()
 
         if category == "exit":
             break
@@ -74,31 +115,24 @@ def choose_or_create_category(base_dir):
     return current_dir
 
 
-def truncate_path(path):
-    path_split = path.split("/")
-    for i, value in enumerate(path_split):
-        if value == "_posts":
-            return path_split[i+1:]
-
-
-
 def main():
 
     work_dir = os.getcwd()
 
     path = choose_or_create_category(work_dir)
 
-    print("Your path is: {}".format(path))
-    real_name = input("Choose a name for your article\n> ")
+    global orange, white, green
+    print(green + "\nYour path is: " + white + path)
+    real_name = input(green + "Choose a name for your article:\n" + white + "> ")
 
-    filename = real_name.strip().lower().replace(" ", "_").replace("'", "_")
+    filename = real_name.strip().lower().replace(" ", "_").replace("'", "_").replace(",", "")
 
     date = datetime.today().strftime('%Y-%m-%d')
     
 
     filename = "{}-{}.md".format(date, filename)
 
-    confirm = input("Do you want to create a file named {}? y / n\n".format(filename))
+    confirm = input(green + "Do you want to create a file named " + white + filename + green + "? Y/[N]:\n" + white)
 
     if confirm == "y" or confirm == "Y":
         file_path = os.path.join(path, filename)
