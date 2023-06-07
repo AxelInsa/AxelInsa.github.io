@@ -63,4 +63,6 @@ order: 2
 | [Fuite en 1791](/CTFs/404CTF2023/web/fuite_en_1791) |
 | [L'innondation](/CTFs/404CTF2023/programmation/l_innondation) |
 | [Des mots, des mots, des mots](/CTFs/404CTF2023/programmation/des_mots_des_mots_des_mots) |
+| [De la poésie](/CTFs/404CTF2023/ai/de_la_poesie) |
+
 
