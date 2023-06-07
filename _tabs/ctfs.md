@@ -61,8 +61,17 @@ order: 2
 | [L'Académie du détail](/CTFs/404CTF2023/web/l_academie_du_detail) |
 | [La Vie Française](/CTFs/404CTF2023/web/la_vie_francaise) |
 | [Fuite en 1791](/CTFs/404CTF2023/web/fuite_en_1791) |
+
+## Programming
+
+| **Link**   |
+|--------------- | 
 | [L'innondation](/CTFs/404CTF2023/programmation/l_innondation) |
 | [Des mots, des mots, des mots](/CTFs/404CTF2023/programmation/des_mots_des_mots_des_mots) |
+
+## AI
+
+| **Link**   |
+|--------------- | 
 | [De la poésie](/CTFs/404CTF2023/ai/de_la_poesie) |
-
-
+| [Le Petit Chat](/CTFs/404CTF2023/ai/le_petit_chat) |
