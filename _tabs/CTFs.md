@@ -82,3 +82,8 @@ order: 2
 |--------------- | 
 | [Le Sot](/CTFs/404CTF2023/cloud/le_sot) |
 
+## Web3
+
+| **Link**   |
+|--------------- | 
+| [Art](/CTFs/404CTF2023/web3/art) |
