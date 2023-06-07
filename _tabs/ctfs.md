@@ -75,3 +75,10 @@ order: 2
 |--------------- | 
 | [De la poésie](/CTFs/404CTF2023/ai/de_la_poesie) |
 | [Le Petit Chat](/CTFs/404CTF2023/ai/le_petit_chat) |
+
+## Cloud
+
+| **Link**   |
+|--------------- | 
+| [Le Sot](/CTFs/404CTF2023/cloud/le_sot) |
+
