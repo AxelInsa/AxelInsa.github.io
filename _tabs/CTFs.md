@@ -88,3 +88,10 @@ order: 2
 |--------------- | 
 | [Art](/CTFs/404CTF2023/web3/art) |
 | [L'Antiquaire, tête en l'air](/CTFs/404CTF2023/web3/l_antiquaire_tete_en_l_air) |
+
+## Crypto
+
+| **Link**   |
+|--------------- | 
+| [Recette](/CTFs/404CTF2023/crypto/recette) |
+| [Dessine-moi une courbe elliptique](/CTFs/404CTF2023/crypto/dessine-moi_une_courbe_elliptique) |
