@@ -3,7 +3,7 @@ title: CTFs | 404CTF2023 | Crypto | Dessine-moi une courbe elliptique
 author: Stillwolfing
 date: 2023-06-08
 categories: ['CTFs', '404CTF2023', 'Crypto']
-tags: ['CTFs', '404CTF2023', 'Crypto']
+tags: ['CTFs', '404CTF2023', 'Crypto', 'Elliptic Curve']
 permalink: /CTFs/404CTF2023/crypto/dessine_moi_une_courbe_elliptique
 ---
 

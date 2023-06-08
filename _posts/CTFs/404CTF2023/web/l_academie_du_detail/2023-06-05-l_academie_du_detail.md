@@ -3,7 +3,7 @@ title: CTFs | 404CTF2023 | Web | L'Academie du détail
 author: Stillwolfing
 date: 2023-06-05
 categories: [CTFs, 404CTF2023, Web]
-tags: [CTFs, 404CTF2023, Web]
+tags: [CTFs, 404CTF2023, Web, JWT]
 permalink: /CTFs/404CTF2023/web/l_academie_du_detail
 ---
 

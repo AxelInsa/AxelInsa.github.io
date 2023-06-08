@@ -3,7 +3,7 @@ title: CTFs | 404CTF2023 | Ai | Le Petit Chat
 author: Stillwolfing
 date: 2023-06-07
 categories: ['CTFs', '404CTF2023', 'Ai']
-tags: ['CTFs', '404CTF2023', 'Ai']
+tags: ['CTFs', '404CTF2023', 'Ai', 'Adversarial Attack']
 permalink: /CTFs/404CTF2023/ai/le_petit_chat
 ---
 
