@@ -94,4 +94,4 @@ order: 2
 | **Link**   |
 |--------------- | 
 | [Recette](/CTFs/404CTF2023/crypto/recette) |
-| [Dessine-moi une courbe elliptique](/CTFs/404CTF2023/crypto/dessine-moi_une_courbe_elliptique) |
+| [Dessine-moi une courbe elliptique](/CTFs/404CTF2023/crypto/dessine_moi_une_courbe_elliptique) |
