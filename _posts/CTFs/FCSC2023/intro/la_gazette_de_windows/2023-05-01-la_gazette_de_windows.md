@@ -3,7 +3,7 @@ title: CTFs | FCSC2023 | Intro | La gazette de Windows
 author: Stillwolfing
 date: 2023-05-01
 categories: [CTFs, FCSC2023, Intro]
-tags: [CTF, FCSC, Intro, Forensic]
+tags: [CTFs, FCSC2023, Intro, Forensic]
 permalink: /CTFs/FCSC2023/intro/la_gazette_de_windows
 ---
 

@@ -3,7 +3,7 @@ title: CTFs | FCSC2023 | Intro | Spanosaurus
 author: Stillwolfing
 date: 2023-05-01
 categories: [CTFs, FCSC2023, Intro]
-tags: [CTF, FCSC, Intro, Side Channel]
+tags: [CTFs, FCSC2023, Intro, Side Channel]
 permalink: /CTFs/FCSC2023/intro/spanosaurus
 ---
 

@@ -3,7 +3,7 @@ title: CTFs | FCSC2023 | Web | Enisa Flag Store 1
 author: Stillwolfing
 date: 2023-05-06
 categories: [CTFs, FCSC2023, Web]
-tags: [CTF, FCSC, Web, SQLI]
+tags: [CTFs, FCSC2023, Web, Sqli]
 permalink: /CTFs/FCSC2023/web/enisa_flag_store_1
 ---
 

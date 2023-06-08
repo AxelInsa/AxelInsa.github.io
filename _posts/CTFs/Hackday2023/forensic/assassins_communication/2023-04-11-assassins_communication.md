@@ -3,7 +3,7 @@ title: CTFs | HackDay2023 | Forensic | Assassins Communication
 author: Stillwolfing
 date: 2023-04-11
 categories: [CTFs, HackDay2023, Forensic]
-tags: [CTF, HackDay, Forensic, Steganography]
+tags: [CTFs, HackDay2023, Forensic, Steganography]
 permalink: /CTFs/Hackday2023/forensic/assassins_communication
 ---
 

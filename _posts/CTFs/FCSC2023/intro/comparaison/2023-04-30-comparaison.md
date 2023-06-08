@@ -3,7 +3,7 @@ title: CTFs | FCSC2023 | Intro | Comparaison
 author: Stillwolfing
 date: 2023-04-30
 categories: [CTFs, FCSC2023, Intro]
-tags: [CTF, FCSC, Intro, Hardware]
+tags: [CTFs, FCSC2023, Intro, Hardware]
 permalink: /CTFs/FCSC2023/intro/comparaison
 ---
 

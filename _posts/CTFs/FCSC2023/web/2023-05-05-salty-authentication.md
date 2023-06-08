@@ -3,7 +3,7 @@ title: CTFs | FCSC2023 | Web | Salty Authentication
 author: Stillwolfing
 date: 2023-05-05
 categories: [CTFs, FCSC2023, Web]
-tags: [CTF, FCSC, Web, magic hash, type juggling]
+tags: [CTFs, FCSC2023, Web, Magic Hash, Type Juggling]
 permalink: /CTFs/FCSC2023/web/salty_authentication
 ---
 

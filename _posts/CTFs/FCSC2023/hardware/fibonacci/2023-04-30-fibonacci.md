@@ -3,7 +3,7 @@ title: CTFs | FCSC2023 | Hardware | Fibonacci
 author: Stillwolfing
 date: 2023-04-30
 categories: [CTFs, FCSC2023, Hardware]
-tags: [CTF, FCSC, ASM]
+tags: [CTFs, FCSC2023, Hardware]
 permalink: /CTFs/FCSC2023/hardware/fibonacci
 ---
 
