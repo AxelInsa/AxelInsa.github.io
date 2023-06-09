@@ -102,3 +102,11 @@ order: 2
 |--------------- | 
 | [Pêche au livre](/CTFs/404CTF2023/forensic/peche_au_livre) |
 | [Le Mystère du roman d'amour](/CTFs/404CTF2023/forensic/le_mystere_du_roman_d_amour) |
+
+## Steganography
+
+| **Link**   |
+|--------------- | 
+| [Odobenus Rosmarus](/CTFs/404CTF2023/steganography/odobenus_rosmarus) |
+| [L'Oeuvre](/CTFs/404CTF2023/steganography/l_oeuvre) |
+| [Les Félicitations](/CTFs/404CTF2023/steganography/les_felicitations) |
