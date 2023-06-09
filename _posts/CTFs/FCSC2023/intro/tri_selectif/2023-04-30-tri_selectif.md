@@ -7,7 +7,7 @@ tags: [CTFs, FCSC2023, Intro, Programmation]
 permalink: /CTFs/FCSC2023/intro/tri_selectif
 ---
 
-Here is the context:
+## Context
 
 ![context](/assets/img/CTFs/FCSC2023/Intro/tri_selectif/context.png)
 

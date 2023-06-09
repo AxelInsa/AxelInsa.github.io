@@ -7,7 +7,7 @@ tags: [CTFs, FCSC2023, Web, Magic Hash, Type Juggling]
 permalink: /CTFs/FCSC2023/web/salty_authentication
 ---
 
-Here is the context:
+## Context
 
 ![context](/assets/img/CTFs/FCSC2023/web/salty_authentication/context.png)
 

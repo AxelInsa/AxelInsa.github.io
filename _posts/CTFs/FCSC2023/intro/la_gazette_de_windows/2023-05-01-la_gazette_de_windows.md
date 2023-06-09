@@ -7,7 +7,7 @@ tags: [CTFs, FCSC2023, Intro, Forensic]
 permalink: /CTFs/FCSC2023/intro/la_gazette_de_windows
 ---
 
-Here is the context:
+## Context
 
 ![context](/assets/img/CTFs/FCSC2023/Intro/la_gazette_de_windows/context.png)
 

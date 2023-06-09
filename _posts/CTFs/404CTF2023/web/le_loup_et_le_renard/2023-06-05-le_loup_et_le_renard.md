@@ -7,7 +7,7 @@ tags: [CTFs, 404CTF2023, Web, Intro]
 permalink: /CTFs/404CTF2023/web/le_loup_et_le_renard
 ---
 
-Here is the context:
+## Context
 
 ![context](/assets/img/CTFs/404CTF2023/web/le_loup_et_le_renard/context.png)
 

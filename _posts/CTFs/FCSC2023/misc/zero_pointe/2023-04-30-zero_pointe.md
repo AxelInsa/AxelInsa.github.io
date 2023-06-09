@@ -8,7 +8,7 @@ permalink: /CTFs/FCSC2023/misc/zero_pointe
 ---
 
 
-Here is the context:
+## Context
 
 ![context](/assets/img/CTFs/FCSC2023/misc/zero_pointe/context.png)
 

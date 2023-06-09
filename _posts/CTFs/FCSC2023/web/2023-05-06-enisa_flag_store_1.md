@@ -7,7 +7,7 @@ tags: [CTFs, FCSC2023, Web, Sqli]
 permalink: /CTFs/FCSC2023/web/enisa_flag_store_1
 ---
 
-Here is the context:
+## Context
 
 ![context](/assets/img/CTFs/FCSC2023/web/enisa_flag_store_1/context.png)
 

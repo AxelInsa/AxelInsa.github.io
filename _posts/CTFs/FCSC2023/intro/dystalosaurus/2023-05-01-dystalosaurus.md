@@ -7,8 +7,7 @@ tags: [CTFs, FCSC2023, Intro, Hardware]
 permalink: /CTFs/FCSC2023/intro/dystalosaurus
 ---
 
-
-Here is the context:
+## Context
 
 ![context](/assets/img/CTFs/FCSC2023/Intro/dystalosaurus/context.png)
 

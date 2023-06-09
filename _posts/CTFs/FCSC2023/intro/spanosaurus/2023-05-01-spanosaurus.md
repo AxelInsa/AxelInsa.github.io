@@ -7,7 +7,7 @@ tags: [CTFs, FCSC2023, Intro, Side Channel]
 permalink: /CTFs/FCSC2023/intro/spanosaurus
 ---
 
-Here is the context:
+## Context
 
 La société MegaSecure vient d'éditer une mise à jour de sécurité pour leurs serveurs. Après analyse de la mise à jour, vous vous apercevez que l'éditeur utilise maintenant ce code pour l'exponentiation :
 

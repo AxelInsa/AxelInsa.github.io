@@ -7,7 +7,7 @@ tags: [CTFs, 404CTF2023, Web, JWT]
 permalink: /CTFs/404CTF2023/web/l_academie_du_detail
 ---
 
-Here is the context:
+## Context
 
 ![context](/assets/img/CTFs/404CTF2023/web/l_academie_du_detail/context.png)
 

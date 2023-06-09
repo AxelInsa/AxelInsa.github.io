@@ -7,7 +7,7 @@ tags: [CTFs, FCSC2023, Hardware]
 permalink: /CTFs/FCSC2023/hardware/fibonacci
 ---
 
-Here is the context:
+## Context
 
 ![context](/assets/img/CTFs/FCSC2023/hardware/fibonacci/context.png)
 

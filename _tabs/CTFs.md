@@ -95,3 +95,10 @@ order: 2
 |--------------- | 
 | [Recette](/CTFs/404CTF2023/crypto/recette) |
 | [Dessine-moi une courbe elliptique](/CTFs/404CTF2023/crypto/dessine_moi_une_courbe_elliptique) |
+
+## Forensic
+
+| **Link**   |
+|--------------- | 
+| [Pêche au livre](/CTFs/404CTF2023/forensic/peche_au_livre) |
+| [Le Mystère du roman d'amour](/CTFs/404CTF2023/forensic/le_mystere_du_roman_d_amour) |

@@ -7,7 +7,7 @@ tags: [CTFs, HackDay2023, Forensic, Steganography]
 permalink: /CTFs/Hackday2023/forensic/assassins_communication
 ---
 
-Here is the context:
+## Context
 
 ![context](/assets/img/CTFs/Hackday2023/forensic/assassins_communication/context.png)
 

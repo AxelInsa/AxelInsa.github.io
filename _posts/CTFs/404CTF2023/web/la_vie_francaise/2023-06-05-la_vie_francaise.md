@@ -7,7 +7,7 @@ tags: [CTFs, 404CTF2023, Web, Sqli]
 permalink: /CTFs/404CTF2023/web/la_vie_francaise
 ---
 
-Here is the context:
+## Context
 
 ![context](/assets/img/CTFs/404CTF2023/web/la_vie_francaise/context.png)
 
