@@ -110,3 +110,10 @@ order: 2
 | [Odobenus Rosmarus](/CTFs/404CTF2023/steganography/odobenus_rosmarus) |
 | [L'Oeuvre](/CTFs/404CTF2023/steganography/l_oeuvre) |
 | [Les Félicitations](/CTFs/404CTF2023/steganography/les_felicitations) |
+
+## Hardware
+
+| **Link**   |
+|--------------- | 
+| [Un courrier suspect](/CTFs/404CTF2023/hardware/un_courrier_suspect) |
+| [Un réveil difficile](/CTFs/404CTF2023/hardware/un_reveil_difficile) |
