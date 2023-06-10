@@ -57,8 +57,9 @@ def create_file(file_path, real_name):
     
 
 def create_dir(base_dir, current_dir, category):
+    global orange, white, green
     new_dir = os.path.join(current_dir, category)
-    confirm = input("Do you want to create a folder named {}? y / n\n".format(category))
+    confirm = input(green + "Do you want to create a folder named " + white + category + green + " ? Y/[N]: " + white)
     
     if (confirm == "y" or confirm == "Y") and not os.path.exists(new_dir):
         os.mkdir(new_dir)
