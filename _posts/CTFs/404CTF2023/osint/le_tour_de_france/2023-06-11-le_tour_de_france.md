@@ -36,28 +36,3 @@ Looking at the url, we can retrieve the coordinates needed to create the flag.
 lag: 404CTF{47.01,4.86} (it's not rounded but truncated btw)
 
 I hope you like this writeup. Have a great day 😉
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

@@ -58,6 +58,7 @@ def create_file(file_path, real_name):
 
 def create_dir(base_dir, current_dir, category):
     global orange, white, green
+    category = category.replace("/", "_on_")
     new_dir = os.path.join(current_dir, category)
     confirm = input(green + "Do you want to create a folder named " + white + category + green + " ? Y/[N]: " + white)
     
@@ -127,7 +128,7 @@ def main():
     print(green + "\nYour path is: " + white + path)
     real_name = input(green + "Choose a name for your article:\n" + white + "> ")
 
-    filename = real_name.strip().lower().replace(" ", "_").replace("'", "_").replace(",", "")
+    filename = real_name.strip().lower().replace(" ", "_").replace("'", "_").replace(",", "").replace("/", "_on_")
     filename = unidecode(filename)
 
     date = datetime.today().strftime('%Y-%m-%d')
