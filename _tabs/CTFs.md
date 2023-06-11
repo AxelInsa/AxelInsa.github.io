@@ -123,6 +123,12 @@ order: 2
 | **Link**   |
 |--------------- | 
 | [Le Divin Crackme](/CTFs/404CTF2023/reverse/le_divin_crackme) |
+| [Encore une mise à jour !](/CTFs/404CTF2023/reverse/encore_une_mise_a_jour_!) |
 | [Le Divin Crackme](/CTFs/404CTF2023/reverse/le_divin_crackme) |
-| [Le Divin Crackme](/CTFs/404CTF2023/reverse/le_divin_crackme) |
+
+## OSINT
+
+| **Link**   |
+|--------------- | 
+| [Le Tour de France](/CTFs/404CTF2023/osint/le_tour_de_france) |
 
