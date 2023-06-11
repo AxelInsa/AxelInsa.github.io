@@ -4,7 +4,7 @@ author: Stillwolfing
 date: 2023-06-11
 categories: ['CTFs', '404CTF2023', 'Osint']
 tags: ['CTFs', '404CTF2023', 'Osint']
-permalink: /CTFs/404CTF2023/osint/les_osintables_%5B1_on_3%5D
+permalink: /CTFs/404CTF2023/osint/les_osintables_[1_on_3]
 ---
 
 This challenge is in 3 parts. I only solved the first one.
