@@ -124,12 +124,11 @@ order: 2
 |--------------- | 
 | [Le Divin Crackme](/CTFs/404CTF2023/reverse/le_divin_crackme) |
 | [Encore une mise à jour !](/CTFs/404CTF2023/reverse/encore_une_mise_a_jour_!) |
-| [Le Divin Crackme](/CTFs/404CTF2023/reverse/le_divin_crackme) |
 
 ## OSINT
 
 | **Link**   |
 |--------------- | 
 | [Le Tour de France](/CTFs/404CTF2023/osint/le_tour_de_france) |
-| [Les OSINTables [1/3]](/CTFs/404CTF2023/osint/les_osintables_%5B1_on_3%5D) |
-
+| [Les OSINTables [1/3]](/CTFs/404CTF2023/osint/les_osintables_[1_on_3]) |
+| [L'âme d'un poète et le coeur d'une femme](/CTFs/404CTF2023/osint/l_ame_d_un_poete_et_le_coeur_d_une_femme) |
