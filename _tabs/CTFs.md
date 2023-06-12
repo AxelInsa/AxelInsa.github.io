@@ -124,6 +124,7 @@ order: 2
 |--------------- | 
 | [Le Divin Crackme](/CTFs/404CTF2023/reverse/le_divin_crackme) |
 | [Encore une mise à jour !](/CTFs/404CTF2023/reverse/encore_une_mise_a_jour_!) |
+| [L'Inspiration en images](/CTFs/404CTF2023/reverse/l_inspiration_en_images) |
 
 ## OSINT
 
