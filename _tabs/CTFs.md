@@ -141,3 +141,4 @@ order: 2
 | [Je veux la lune !](/CTFs/404CTF2023/pwn/je_veux_la_lune_!) |
 | [L'Alchimiste](/CTFs/404CTF2023/pwn/l_alchimiste) |
 | [La Cohue](/CTFs/404CTF2023/pwn/la_cohue) |
+| [Un tour de magie](/CTFs/404CTF2023/pwn/un_tour_de_magie) |
