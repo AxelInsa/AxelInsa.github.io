@@ -142,3 +142,4 @@ order: 2
 | [L'Alchimiste](/CTFs/404CTF2023/pwn/l_alchimiste) |
 | [La Cohue](/CTFs/404CTF2023/pwn/la_cohue) |
 | [Un tour de magie](/CTFs/404CTF2023/pwn/un_tour_de_magie) |
+| [Cache-cache : le retour](/CTFs/404CTF2023/pwn/cache-cache_:_le_retour) |
