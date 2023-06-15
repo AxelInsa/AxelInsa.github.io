@@ -35,7 +35,7 @@ def create_file(file_path, real_name):
     upper_chall_cat_name = chall_cat_name[0].upper() + chall_cat_name[1:]
     upper_chall_name = filename[0].upper() + filename[1:] 
 
-
+    real_name = real_name.replace(":", "")
     title = f"{upper_category_name} | {upper_ctf_name} | {upper_chall_cat_name} | {real_name}"
     print("title: {}".format(title))
 
@@ -47,7 +47,7 @@ def create_file(file_path, real_name):
 
     with open(file_path, "w") as f:
         f.write("---\n")
-        f.write("title: {}\n".format(title))
+        f.write("title: '{}'\n".format(title))
         f.write("author: {}\n".format(author))
         f.write("date: {}\n".format(date))
         f.write("categories: {}\n".format(categories))
