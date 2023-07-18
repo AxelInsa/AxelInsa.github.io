@@ -151,5 +151,6 @@ order: 2
 | **Link**   |
 |--------------- | 
 | [Waiting an Eternity](/CTFs/AmateursCTF2023/web/waiting-an-eternity) |
+| [Funny Factorials](/CTFs/AmateursCTF2023/web/funny_factorials) |
 
 
