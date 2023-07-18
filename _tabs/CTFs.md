@@ -143,3 +143,13 @@ order: 2
 | [La Cohue](/CTFs/404CTF2023/pwn/la_cohue) |
 | [Un tour de magie](/CTFs/404CTF2023/pwn/un_tour_de_magie) |
 | [Cache-cache : le retour](/CTFs/404CTF2023/pwn/cache-cache_:_le_retour) |
+
+# Amateurs CTF 2023
+
+## Web
+
+| **Link**   |
+|--------------- | 
+| [Waiting an Eternity](/CTFs/AmateursCTF2023/web/waiting-an-eternity) |
+
+
