@@ -1,7 +1,7 @@
 import os
 from datetime import datetime
 import readline
-from unidecode import unidecode
+#from unidecode import unidecode
 
 
 orange = "\033[0;33m"
@@ -129,7 +129,7 @@ def main():
     real_name = input(green + "Choose a name for your article:\n" + white + "> ")
 
     filename = real_name.strip().lower().replace(" ", "_").replace("'", "_").replace(",", "").replace("/", "_on_")
-    filename = unidecode(filename)
+    #filename = unidecode(filename)
 
     date = datetime.today().strftime('%Y-%m-%d')
     
