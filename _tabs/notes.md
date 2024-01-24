@@ -9,7 +9,9 @@ order: 3
 
 | **Link**   | **Description**    |
 |--------------- | --------------- |
-| [File Inclusions](/Notes/Web/lfi)  | LFI, RFI, Log Poisoning   |
+| [File Inclusions](/Notes/Web/lfi)  | LFI, RFI, Log Poisoning |
+| [JWT](/Notes/Web/jwt)  | Understand JWT format, vulnerabilites and mitigations |
+
 
 
 ---
