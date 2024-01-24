@@ -4,12 +4,12 @@ author: Stillwolfing
 date: 2023-06-15
 categories: ['CTFs', '404CTF2023', 'Pwn']
 tags: ['CTFs', '404CTF2023', 'Pwn']
-permalink: /CTFs/404CTF2023/pwn/cache-cache_%3A_le_retour
+permalink: /CTFs/404CTF2023/pwn/cache-cache_le_retour
 ---
 
 ## Context
 
-![context](/assets/img/CTFs/404CTF2023/pwn/cache-cache_%3A_le_retour/context.png)
+![context](/assets/img/CTFs/404CTF2023/pwn/cache-cache_le_retour/context.png)
 
 We have to get the content of the file salle_au_tresor.
 
@@ -19,7 +19,7 @@ We have to get the content of the file salle_au_tresor.
 
 Here are the functions in the executable. I renamed some to better understand the program.
 
-![functions](/assets/img/CTFs/404CTF2023/pwn/cache-cache_%3A_le_retour/functions.png)
+![functions](/assets/img/CTFs/404CTF2023/pwn/cache-cache_le_retour/functions.png)
 
 ### Main
 
@@ -219,7 +219,7 @@ run
 
 We increase the timestamp by 30 then we display the password.
 
-![password](/assets/img/CTFs/404CTF2023/pwn/cache-cache_%3A_le_retour/password.png)
+![password](/assets/img/CTFs/404CTF2023/pwn/cache-cache_le_retour/password.png)
 
 Code to spam requests:
 
@@ -248,7 +248,7 @@ print('terminate')
 p.interactive()
 ```
 
-![login](/assets/img/CTFs/404CTF2023/pwn/cache-cache_%3A_le_retour/login.png)
+![login](/assets/img/CTFs/404CTF2023/pwn/cache-cache_le_retour/login.png)
 
 Now the give a gift function is executed.
 
@@ -416,7 +416,7 @@ The program reads a line from surprise.txt that is a symlink to salle_au_tresor.
 
 In local, we create a file called salle_au_tresor. We create a symlink to it. We zip surprise.txt into mystere.zip. Then we encode in base64 mystere.zip.
 
-![payload](/assets/img/CTFs/404CTF2023/pwn/cache-cache_%3A_le_retour/payload.png)
+![payload](/assets/img/CTFs/404CTF2023/pwn/cache-cache_le_retour/payload.png)
 
 Our payload is ready.
 
@@ -454,7 +454,7 @@ p.interactive()
 
 ## Flag
 
-![flag](/assets/img/CTFs/404CTF2023/pwn/cache-cache_%3A_le_retour/flag.png)
+![flag](/assets/img/CTFs/404CTF2023/pwn/cache-cache_le_retour/flag.png)
 
 We have the flag 🥳 !
 
