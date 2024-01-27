@@ -11,6 +11,7 @@ order: 3
 |--------------- | --------------- |
 | [File Inclusions](/Notes/Web/lfi)  | LFI, RFI, Log Poisoning |
 | [JWT](/Notes/Web/jwt)  | Understand JWT format, vulnerabilites and mitigations |
+| [Flask](/Notes/Web/flask)  | Some Flask vulns |
 
 
 
