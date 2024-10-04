@@ -1,5 +1,5 @@
 ---
-title: 'AxelInsa.github.io | Notes | Processus de démarrage d'un ordinateur'
+title: 'Notes | Systeme | Processus de démarrage d'un ordinateur'
 author: bipboup
 date: 2024-10-03
 categories: ['Notes', 'Systeme']
