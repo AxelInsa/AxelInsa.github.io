@@ -9,7 +9,7 @@ permalink: /Notes/Systeme/boot_process
 
 Le démarrage d'un ordinateur suit une série d'étapes essentielles qui permettent de passer du matériel allumé au système d'exploitation entièrement opérationnel. Ce processus est standardisé mais peut varier légèrement selon le type de firmware (BIOS ou UEFI) et le système d'exploitation utilisé (Windows, Linux, ou macOS).
 
-![Linux startup process](/_posts/Notes/Systeme/img/power_on_diagram.png)
+![Linux startup process](/assets/img/Notes/Systeme/processus_de_demarrage_d_un_ordinateur/power_on_diagram.png)
 
 
 # 1. L'alimentation et le démarrage matériel
@@ -58,7 +58,7 @@ Il démarre ensuite les services d'arrière-plan et prépare l'ordinateur pour l
 La plupart des distributions Linux utilisent GRUB (GRand Unified Bootloader). GRUB gère la gestion du chargement des systèmes d'exploitation sur le système.
 
 
-![Linux startup process](/_posts/Notes/Systeme/img/Linux_startup_process_wip.png)
+![Linux startup process](/assets/img/Notes/Systeme/processus_de_demarrage_d_un_ordinateur/Linux_startup_process_wip.png)
 
 [Source de l'image](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Linux_startup_process_wip.svg/578px-Linux_startup_process_wip.svg.png)
 
