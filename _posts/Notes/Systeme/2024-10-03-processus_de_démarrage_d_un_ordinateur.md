@@ -30,11 +30,11 @@ Une fois le POST terminé avec succès, le BIOS ou l'UEFI recherche un périphé
 
 ## 4.1. BIOS et MBR (Master Boot Record)
 
-Dans les anciens systèmes utilisant le BIOS, le périphérique de démarrage doit contenir un MBR (Master Boot Record) sur les premiers secteurs du disque. Ce MBR (512 octets) contient un petit programme appelé "chargeur de démarrage" qui est chargé en mémoire et qui va commencer à démarrer le système d'exploitation.
+Dans les anciens systèmes utilisant le BIOS, le périphérique de démarrage doit contenir un MBR (Master Boot Record) sur les premiers secteurs du disque. Ce MBR (512 octets) contient un petit programme appelé "chargeur de démarrage", qui est chargé en mémoire et qui commence à démarrer le système d'exploitation.
 
 ## 4.2. UEFI et EFI System Partition (ESP)
 
-Dans les systèmes plus récents, l'UEFI remplace le MBR cpar une partition système EFI (ESP), où sont stockés des fichiers exécutables pour démarrer le système d'exploitation. L'UEFI peut vérifier la signature de ces fichiers via le mécanisme de Seure Boot, afin de s'assurer que le système n'a pas été altéré.
+Dans les systèmes plus récents, l'UEFI remplace le MBR par une partition système EFI (ESP), où sont stockés des fichiers exécutables pour démarrer le système d'exploitation. L'UEFI peut vérifier la signature de ces fichiers via le mécanisme de Secure Boot, afin de s'assurer que le système n'a pas été altéré.
 
 L'UEFI lance le 
 
@@ -83,7 +83,7 @@ La plupart des distributions Linux utilisent GRUB (GRand Unified Bootloader). GR
 
 **initramfs (Initial RAM Filesystem)**: GRUB charge également le fichier initramfs (ou initrd), qui contient les pilotes et les modules nécessaires pour que le noyau puisse détecter le matériel et monter le système de fichiers racine plus tard.
 
-**Système de fichiers racine**: GRUB spécifie la partition où se trouve le système de fichiers racine (ex : /dev/sda1) et transmet cette information au noyau via l'option root dans la configuration.
+**Système de fichiers racine**: GRUB spécifie la partition où se trouve le système de fichiers racine (exemple : /dev/sda1) et transmet cette information au noyau via l'option root dans la configuration.
 
 **Autres paramètres** : GRUB peut aussi transmettre des options comme ro (monter le système de fichiers en lecture seule) et quiet (réduire l'affichage des messages pendant le démarrage).
 
