@@ -191,4 +191,4 @@ Après l’activation de l’interface, la machine doit identifier les autres ap
 
 # Conclusion
 
-Brancher un câble Ethernet déclenche une chaîne d'événements à la fois complexes et fascinants, impliquant des interactions entre matériel, logiciels systèmes et protocoles réseau. Chaque étape contribue à l’établissement d’une connexion réseau stable et performante. Comprendre ces mécanismes en profondeur est crucial pour toute personne travaillant dans l'administration système et réseau, car cela permet de diagnostiquer des problèmes et d’optimiser les connexions réseau.
+Brancher un câble Ethernet déclenche une chaîne d'événements impliquant des interactions entre matériel, logiciels systèmes et protocoles réseau. Chaque étape contribue à l’établissement d’une connexion réseau stable et performante. Comprendre ces mécanismes en profondeur est crucial pour toute personne travaillant dans l'administration système et réseau, car cela permet de diagnostiquer des problèmes et d’optimiser les connexions réseau.
