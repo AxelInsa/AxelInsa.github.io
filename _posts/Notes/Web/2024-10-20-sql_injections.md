@@ -145,6 +145,7 @@ L'exemple est fait sur une base de données PostgreSQL. La syntaxe change en fon
 ```
 
 - Récupérer le nom des bases de données :
+
 ```sql
 ' UNION SELECT NULL, CURRENT_DATABASE()-- -
 ```
@@ -395,4 +396,5 @@ REQUETE1;REQUETE2
 
 - https://portswigger.net/web-security/sql-injection
 - https://portswigger.net/web-security/sql-injection/cheat-sheet
-- 
+- https://tryhackme.com/r/room/sqlinjectionlm
+
