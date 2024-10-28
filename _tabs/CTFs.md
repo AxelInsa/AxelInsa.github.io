@@ -17,6 +17,7 @@ order: 2
 | **Link**   |
 |--------------- | 
 | [Interpolation](/CTFs/HeroCTF2024/Crypto/Interpolation) |
+| [Paranoia](/CTFs/HeroCTF2024/Crypto/Paranoia) |
 
 
 # HackDay 2023
