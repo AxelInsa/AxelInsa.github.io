@@ -12,6 +12,12 @@ order: 2
 |--------------- | 
 | [PrYzes](/CTFs/HeroCTF2024/Web/PrYzes) |
 
+# Crypto
+
+| **Link**   |
+|--------------- | 
+| [Interpolation](/CTFs/HeroCTF2024/Crypto/Interpolation) |
+
 
 # HackDay 2023
 
