@@ -4,6 +4,15 @@ icon: fa fa-flag
 order: 2
 ---
 
+# HeroCTF 2024
+
+# Web
+
+| **Link**   |
+|--------------- | 
+| [PrYzes](/CTFs/HeroCTF2024/Web/PrYzes) |
+
+
 # HackDay 2023
 
 # Forensic
