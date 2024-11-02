@@ -120,3 +120,16 @@ Utiliser des outils de détection pour identifier les vulnérabilités SSRF et l
 # Conclusion
 
 Les vulnérabilités SSRF représentent une menace sérieuse pour architectures modernes. En 2021, celle-ci apparaît comme une catégorie à part entière dans le **TOP 10** des vulnérabilités des applications web de l'**OWASP**. L'essor des environnements cloud et des API favorisent la présence de ces attaques. Bien qu'il soit difficile de les prévenir complètment, une défense en profondeur combinant une segementation réseau, une validation strictes des entrées et une configuration adéquates des services internes peut réduire les risques.
+
+
+# Sources
+
+- https://portswigger.net/web-security/ssrf
+- https://owasp.org/Top10/fr/A10_2021-Server-Side_Request_Forgery_%28SSRF%29/
+- https://www.vaadata.com/blog/fr/comprendre-la-vulnerabilite-web-server-side-request-forgery-1/
+- https://www.cyberuniversity.com/post/ssrf-server-side-request-forgery-quest-ce-que-cest
+- https://www.acunetix.com/blog/articles/server-side-request-forgery-vulnerability/
+- https://www.blackhat.com/docs/us-17/thursday/us-17-Tsai-A-New-Era-Of-SSRF-Exploiting-URL-Parser-In-Trending-Programming-Languages.pdf
+- https://cheatsheetseries.owasp.org/assets/Server_Side_Request_Forgery_Prevention_Cheat_Sheet_SSRF_Bible.pdf
+- https://owasp.org/Top10/fr/
+- https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Server%20Side%20Request%20Forgery/README.md
