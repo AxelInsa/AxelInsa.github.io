@@ -14,6 +14,7 @@ order: 3
 | [JWT](/Notes/Web/jwt)  | Understand JWT format, vulnerabilites and mitigations |
 | [Flask](/Notes/Web/flask)  | Some Flask vulns |
 | [XPATH Injections](/Notes/Web/xpath)  | Understand and exploit XPATH injections |
+| [SSRF](/Notes/Web/server-side_request_forgery_(ssrf))  | Understand, exploit, and mitigate SSRF |
 
 
 # Réseau
