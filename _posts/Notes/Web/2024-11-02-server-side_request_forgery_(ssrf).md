@@ -124,12 +124,12 @@ Les vulnérabilités SSRF représentent une menace sérieuse pour architectures 
 
 # Sources
 
-- https://portswigger.net/web-security/ssrf
-- https://owasp.org/Top10/fr/A10_2021-Server-Side_Request_Forgery_%28SSRF%29/
-- https://www.vaadata.com/blog/fr/comprendre-la-vulnerabilite-web-server-side-request-forgery-1/
-- https://www.cyberuniversity.com/post/ssrf-server-side-request-forgery-quest-ce-que-cest
-- https://www.acunetix.com/blog/articles/server-side-request-forgery-vulnerability/
-- https://www.blackhat.com/docs/us-17/thursday/us-17-Tsai-A-New-Era-Of-SSRF-Exploiting-URL-Parser-In-Trending-Programming-Languages.pdf
-- https://cheatsheetseries.owasp.org/assets/Server_Side_Request_Forgery_Prevention_Cheat_Sheet_SSRF_Bible.pdf
-- https://owasp.org/Top10/fr/
-- https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Server%20Side%20Request%20Forgery/README.md
+- [Portswigger - SSRF](https://portswigger.net/web-security/ssrf) 
+- [OWASP - SSRF](https://owasp.org/Top10/fr/A10_2021-Server-Side_Request_Forgery_%28SSRF%29/) 
+- [vaadata blog - comprendre la vulnérabilité web SSRF](https://www.vaadata.com/blog/fr/comprendre-la-vulnerabilite-web-server-side-request-forgery-1/)
+- [Cyberuniversity - SSRF : Qu'est-ce que c'est ?](https://www.cyberuniversity.com/post/ssrf-server-side-request-forgery-quest-ce-que-cest)
+- [Acunetix - SSRF](https://www.acunetix.com/blog/articles/server-side-request-forgery-vulnerability/)
+- [Blackhat - Exploiting URL Parser In Trending Programming Languages](https://www.blackhat.com/docs/us-17/thursday/us-17-Tsai-A-New-Era-Of-SSRF-Exploiting-URL-Parser-In-Trending-Programming-Languages.pdf)
+- [OWASP - SSRF cheat sheet](https://cheatsheetseries.owasp.org/assets/Server_Side_Request_Forgery_Prevention_Cheat_Sheet_SSRF_Bible.pdf)
+- [OWASP - Top 10](https://owasp.org/Top10/fr/)
+- [PayloadsAllTheThings - SSRF](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Server%20Side%20Request%20Forgery/README.md)
